@@ -39,7 +39,7 @@
 
   <header>
     <h1 class="logo">
-      <img src="AGF_rooster_logo.png" alt="AGF Logo" /> ARROYO GAME FARM
+      <img src="AGF_rooster_logo.png" alt="AGF" /> ARROYO GAME FARM
     </h1>
     <nav>
       <a href="#about">About</a>
